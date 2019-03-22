@@ -1,0 +1,25 @@
+{
+	"version": "1.0.0",
+	"name": "static-website-boilerplate",
+	"launch_path": "/index.html",
+	"description": "Static Website BoilerPlate Using (ES6, Bootstrap 4, SASS, ROBOTO)",
+	"icons": {
+		"128": "/resources/icon-128x128.png"
+	},
+	"developer": {
+		"name": "Mehdi Nassim KHODJA",
+		"url": "https://github.com/MehdiNassim"
+	},
+	"installs_allowed_from": [
+		"*"
+	],
+	"default_locale": "en",
+	"permissions": {
+	},
+	"locales": {
+		"en": {
+			"name": "static-website-boilerplate",
+			"description": "Static Website BoilerPlate Using (ES6, Bootstrap 4, SASS, ROBOTO)"
+		}
+	}
+}
